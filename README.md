@@ -1,6 +1,6 @@
 # Herdsman
 
-![Virus-ball](https://github.com/AntonioZhezhel/Herdsman/Herdsmen.gif)
+![Herdsmen](https://github.com/AntonioZhezhel/Herdsman/assets/42389663/46a959d7-3573-4aba-bc48-8731369e0e32)
 
 ## Description
 
